@@ -55,7 +55,7 @@ function UIExclusiveGroup.init()
 				UIExclusiveGroup._taggedUIGroups[uiGroupAttr] = nil;
 			end;
 		end;
-	end, { localPlayer.PlayerGui });
+	end, { localPlayer.PlayerGui, workspace });
 end;
 
 function UIExclusiveGroup.new()

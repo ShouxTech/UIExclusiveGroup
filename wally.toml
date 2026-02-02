@@ -1,7 +1,7 @@
 [package]
 name = "shouxtech/ui-exclusive-group"
 description = ""
-version = "1.0.0"
+version = "1.0.1"
 registry = "https://github.com/UpliftGames/wally-index"
 realm = "shared"
 include = ["src", "src/**", "default.project.json", "wally.toml", "wally.lock"]
