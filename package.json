@@ -1,0 +1,24 @@
+{
+  "name": "@rbxts/ui-exclusive-group",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/init.lua",
+  "scripts": {},
+  "keywords": [],
+  "author": "CriShoux",
+  "license": "ISC",
+  "type": "commonjs",
+  "types": "src/index.d.ts",
+  "files": [
+    "src"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "devDependencies": {
+    "@rbxts/compiler-types": "^3.0.0-types.0",
+    "@rbxts/types": "^1.0.896",
+    "roblox-ts": "^3.0.0",
+    "typescript": "^5.9.3"
+  }
+}
